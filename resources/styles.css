@@ -1,0 +1,44 @@
+h1,
+h2,
+h3,
+p{
+    font-family:Helvetica, sans-serif;
+}
+
+#logo{
+    
+    width:100%;
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("image1.jpeg");
+    
+}
+
+.titles{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    text-align: left;
+}
+
+#Brushes{
+    background-color: mediumspringgreen;
+}
+
+#Frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
+
+
+.price{
+    color:blue;
+    font-weight: bold;
+}
